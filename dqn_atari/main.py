@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 10 00:07:37 2019
 
-@author: chen
-"""
 
 import tensorflow as tf
 from collections import deque

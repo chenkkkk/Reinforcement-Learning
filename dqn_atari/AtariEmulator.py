@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 11 00:16:33 2019
-
-@author: chen
-"""
 
 import numpy as np
 import gym
